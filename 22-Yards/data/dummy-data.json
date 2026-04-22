@@ -1,0 +1,23 @@
+[
+  {
+    "team1": "IND",
+    "team2": "AUS",
+    "score": "186/4",
+    "venue": "Melbourne",
+    "status": "Live"
+  },
+  {
+    "team1": "RCB",
+    "team2": "CSK",
+    "score": "Starts 7:30 PM",
+    "venue": "Bengaluru",
+    "status": "Upcoming"
+  },
+  {
+    "team1": "ENG",
+    "team2": "NZ",
+    "score": "ENG won by 5 wkts",
+    "venue": "London",
+    "status": "Result"
+  }
+]
